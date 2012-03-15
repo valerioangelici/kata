@@ -15,6 +15,7 @@
     </properties>
     <modules>
         <module>kata-001</module>
+        <module>kata-002</module>
     </modules>
     <scm>
         <developerConnection>scm:git:git@github.com:nexse-swat-team/kata.git</developerConnection>
