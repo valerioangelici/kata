@@ -15,6 +15,10 @@ Implement the missing parts, then run:
 
 Unit tests will run making sure your implementation is correct.
 
+If you wish to share your solutions, fork the project using GitHub's
+fork button: this will create your own repository that you can use to
+clone from and commit into.
+
 Enjoy!
 
 ### The Nexse SWAT Team
