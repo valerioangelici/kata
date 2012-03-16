@@ -1,4 +1,4 @@
-Code Katas
+Java Code Katas
 =========
 
 This project hosts java katas, exercises to practice coding.
